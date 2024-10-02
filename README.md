@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Cindy Fagundes</h1>
 <h3 align="center">Transformando dados em decisões: a magia da análise de BI. ✨</h3>
 
-- 🌱 Atualmente estou aprendendo **Excel, Power BI, SQL e Segurança da Informação e LGPD**
+- 🌱 Atualmente estou aprendendo **Excel, Power BI, SQL, Segurança da Informação e LGPD**
 
 - 💬 Pergunte-me sobre **SQL, Excel e Power BI**
 
